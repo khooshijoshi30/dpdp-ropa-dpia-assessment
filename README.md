@@ -103,6 +103,7 @@ This project shows how a privacy team turns those rules into a concrete assessme
 Part of a series built for the same fictional company:
 
 - [Personal Data Breach Response Playbook & Tabletop Kit](https://github.com/khooshijoshi30/dpdp-breach-response-playbook)
+- [Vendor Risk Desk: TPRM programme and working risk scoring tool](https://github.com/khooshijoshi30/vendor-risk-desk)
 
 ---
 
