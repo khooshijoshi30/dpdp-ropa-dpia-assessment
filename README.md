@@ -104,6 +104,7 @@ Part of a series built for the same fictional company:
 
 - [Personal Data Breach Response Playbook & Tabletop Kit](https://github.com/khooshijoshi30/dpdp-breach-response-playbook)
 - [Vendor Risk Desk: TPRM programme and working risk scoring tool](https://github.com/khooshijoshi30/vendor-risk-desk)
+- [GRC Dashboard: risk register and ISO 27001:2022 compliance tracking (Flask)](https://github.com/khooshijoshi30/grc-dashboard)
 
 ---
 
